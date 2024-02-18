@@ -1,0 +1,607 @@
+[
+    {
+        "Id": "670eb5e002df42709b521bd52249bc32",
+        "RecognitionStatus": 0,
+        "Offset": 17600000,
+        "Duration": 145600000,
+        "Channel": 0,
+        "DisplayText": "Software que empreende, health care, Annabelle, People's wavecome, fisical, desaduntigies Empire, smounti, infraestruture, Creative credible Entertainment, experiencies, and even save the planets.",
+        "NBest": [
+            {
+                "Confidence": 0.29791492,
+                "Lexical": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "ITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "MaskedITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Display": "Software que empreende, health care, Annabelle, People's wavecome, fisical, desaduntigies Empire, smounti, infraestruture, Creative credible Entertainment, experiencies, and even save the planets.",
+                "Words": [
+                    {
+                        "Word": "software",
+                        "Offset": 17600000,
+                        "Duration": 21600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 39200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "empreende",
+                        "Offset": 41200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "health",
+                        "Offset": 44800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "care",
+                        "Offset": 47200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "annabelle",
+                        "Offset": 56000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "people's",
+                        "Offset": 59600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "wavecome",
+                        "Offset": 63600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "fisical",
+                        "Offset": 68800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "desaduntigies",
+                        "Offset": 72800000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "empire",
+                        "Offset": 89600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "smounti",
+                        "Offset": 93600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "infraestruture",
+                        "Offset": 97600000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "creative",
+                        "Offset": 111600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "credible",
+                        "Offset": 116800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 123200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiencies",
+                        "Offset": 128000000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 144800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 150800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "planets",
+                        "Offset": 156000000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.29791492,
+                "Lexical": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "ITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "MaskedITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Display": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Words": [
+                    {
+                        "Word": "software",
+                        "Offset": 17600000,
+                        "Duration": 21600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 39200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "empreende",
+                        "Offset": 41200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "health",
+                        "Offset": 44800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "care",
+                        "Offset": 47200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "annabelle",
+                        "Offset": 56000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "people's",
+                        "Offset": 59600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "wavecome",
+                        "Offset": 63600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "fisical",
+                        "Offset": 68800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "desaduntigies",
+                        "Offset": 72800000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "empire",
+                        "Offset": 89600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "smounti",
+                        "Offset": 93600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "infraestruture",
+                        "Offset": 97600000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "creative",
+                        "Offset": 111600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "credible",
+                        "Offset": 116800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 123200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiencies",
+                        "Offset": 128000000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 144800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 150800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "planets",
+                        "Offset": 156000000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.29791483,
+                "Lexical": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "ITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "MaskedITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Display": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Words": [
+                    {
+                        "Word": "software",
+                        "Offset": 17600000,
+                        "Duration": 21600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 39200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "empreende",
+                        "Offset": 41200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "health",
+                        "Offset": 44800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "care",
+                        "Offset": 47200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "annabelle",
+                        "Offset": 56000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "people's",
+                        "Offset": 59600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "wavecome",
+                        "Offset": 63600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "fisical",
+                        "Offset": 68800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "desaduntigies",
+                        "Offset": 72800000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "empire",
+                        "Offset": 89600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "smounti",
+                        "Offset": 93600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "infraestruture",
+                        "Offset": 97600000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "creative",
+                        "Offset": 111600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "credible",
+                        "Offset": 116800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 123200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiencies",
+                        "Offset": 128000000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 144800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 150800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "planets",
+                        "Offset": 156000000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.29791492,
+                "Lexical": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "ITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "MaskedITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Display": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Words": [
+                    {
+                        "Word": "software",
+                        "Offset": 17600000,
+                        "Duration": 21600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 39200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "empreende",
+                        "Offset": 41200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "health",
+                        "Offset": 44800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "care",
+                        "Offset": 47200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "annabelle",
+                        "Offset": 56000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "people's",
+                        "Offset": 59600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "wavecome",
+                        "Offset": 63600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "fisical",
+                        "Offset": 68800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "desaduntigies",
+                        "Offset": 72800000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "empire",
+                        "Offset": 89600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "smounti",
+                        "Offset": 93600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "infraestruture",
+                        "Offset": 97600000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "creative",
+                        "Offset": 111600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "credible",
+                        "Offset": 116800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 123200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiencies",
+                        "Offset": 128000000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 144800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 150800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "planets",
+                        "Offset": 156000000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.29791483,
+                "Lexical": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "ITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "MaskedITN": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Display": "software que empreende health care annabelle people's wavecome fisical desaduntigies empire smounti infraestruture creative credible entertainment experiencies and even save the planets",
+                "Words": [
+                    {
+                        "Word": "software",
+                        "Offset": 17600000,
+                        "Duration": 21600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 39200000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "empreende",
+                        "Offset": 41200000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "health",
+                        "Offset": 44800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "care",
+                        "Offset": 47200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "annabelle",
+                        "Offset": 56000000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "people's",
+                        "Offset": 59600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "wavecome",
+                        "Offset": 63600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "fisical",
+                        "Offset": 68800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "desaduntigies",
+                        "Offset": 72800000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "empire",
+                        "Offset": 89600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "smounti",
+                        "Offset": 93600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "infraestruture",
+                        "Offset": 97600000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "creative",
+                        "Offset": 111600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "credible",
+                        "Offset": 116800000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "entertainment",
+                        "Offset": 123200000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "experiencies",
+                        "Offset": 128000000,
+                        "Duration": 11600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 144800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "even",
+                        "Offset": 146800000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "save",
+                        "Offset": 150800000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 155200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "planets",
+                        "Offset": 156000000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    }
+]

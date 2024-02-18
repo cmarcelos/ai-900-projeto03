@@ -1,0 +1,1037 @@
+[
+    {
+        "Id": "f12a5472746a4fd4a2f411b748f410f8",
+        "RecognitionStatus": 0,
+        "Offset": 3100000,
+        "Duration": 106800000,
+        "Channel": 0,
+        "DisplayText": "Você, olá, você pode ouvir o que eu estou dizendo? Se sim, escreva para mim exatamente como eu vou contar esta história.",
+        "NBest": [
+            {
+                "Confidence": 0.85597396,
+                "Lexical": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "ITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "MaskedITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Display": "Você, olá, você pode ouvir o que eu estou dizendo? Se sim, escreva para mim exatamente como eu vou contar esta história.",
+                "Words": [
+                    {
+                        "Word": "você",
+                        "Offset": 3100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "olá",
+                        "Offset": 8300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ouvir",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 18700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 19500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 20300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 21100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dizendo",
+                        "Offset": 23900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 33900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 36300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "escreva",
+                        "Offset": 43100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 47900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "mim",
+                        "Offset": 49900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "exatamente",
+                        "Offset": 52700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 68300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 75500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 77900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "contar",
+                        "Offset": 90700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "esta",
+                        "Offset": 97500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "história",
+                        "Offset": 102700000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.85597396,
+                "Lexical": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "ITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "MaskedITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Display": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Words": [
+                    {
+                        "Word": "você",
+                        "Offset": 3100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "olá",
+                        "Offset": 8300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ouvir",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 18700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 19500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 20300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 21100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dizendo",
+                        "Offset": 23900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 33900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 36300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "escreva",
+                        "Offset": 43100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 47900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "mim",
+                        "Offset": 49900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "exatamente",
+                        "Offset": 52700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 68300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 75500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 77900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "contar",
+                        "Offset": 90700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "esta",
+                        "Offset": 97500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "história",
+                        "Offset": 102700000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.85597396,
+                "Lexical": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "ITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "MaskedITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Display": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Words": [
+                    {
+                        "Word": "você",
+                        "Offset": 3100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "olá",
+                        "Offset": 8300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ouvir",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 18700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 19500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 20300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 21100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dizendo",
+                        "Offset": 23900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 33900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 36300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "escreva",
+                        "Offset": 43100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 47900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "mim",
+                        "Offset": 49900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "exatamente",
+                        "Offset": 52700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 68300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 75500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 77900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "contar",
+                        "Offset": 90700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "esta",
+                        "Offset": 97500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "história",
+                        "Offset": 102700000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.85597396,
+                "Lexical": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "ITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "MaskedITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Display": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Words": [
+                    {
+                        "Word": "você",
+                        "Offset": 3100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "olá",
+                        "Offset": 8300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ouvir",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 18700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 19500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 20300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 21100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dizendo",
+                        "Offset": 23900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 33900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 36300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "escreva",
+                        "Offset": 43100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 47900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "mim",
+                        "Offset": 49900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "exatamente",
+                        "Offset": 52700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 68300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 75500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 77900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "contar",
+                        "Offset": 90700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "esta",
+                        "Offset": 97500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "história",
+                        "Offset": 102700000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.85597396,
+                "Lexical": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "ITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "MaskedITN": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Display": "você olá você pode ouvir o que eu estou dizendo se sim escreva para mim exatamente como eu vou contar esta história",
+                "Words": [
+                    {
+                        "Word": "você",
+                        "Offset": 3100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "olá",
+                        "Offset": 8300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "você",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "pode",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "ouvir",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 18700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 19500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 20300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 21100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "dizendo",
+                        "Offset": 23900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 33900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 36300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "escreva",
+                        "Offset": 43100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 47900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "mim",
+                        "Offset": 49900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "exatamente",
+                        "Offset": 52700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "como",
+                        "Offset": 68300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 75500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 77900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "contar",
+                        "Offset": 90700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "esta",
+                        "Offset": 97500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "história",
+                        "Offset": 102700000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "ccd8dfc76c554cd4a1a9f7b007730079",
+        "RecognitionStatus": 0,
+        "Offset": 122300000,
+        "Duration": 85600000,
+        "Channel": 0,
+        "DisplayText": "Tudo começou no ano de 3025, quando tudo era máquinas.",
+        "NBest": [
+            {
+                "Confidence": 0.9182431,
+                "Lexical": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "ITN": "tudo começou no ano de 3025 quando tudo era máquinas",
+                "MaskedITN": "tudo começou no ano de 3025 quando tudo era máquinas",
+                "Display": "Tudo começou no ano de 3025, quando tudo era máquinas.",
+                "Words": [
+                    {
+                        "Word": "tudo",
+                        "Offset": 122300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "começou",
+                        "Offset": 124700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 131900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 135900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 142700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mil",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 152300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 153900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 157100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 157500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 171900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 175500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "era",
+                        "Offset": 189900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "máquinas",
+                        "Offset": 199100000,
+                        "Duration": 8800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9182431,
+                "Lexical": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "ITN": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "MaskedITN": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "Display": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "Words": [
+                    {
+                        "Word": "tudo",
+                        "Offset": 122300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "começou",
+                        "Offset": 124700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 131900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 135900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 142700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mil",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 152300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 153900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 157100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 157500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 171900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 175500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "era",
+                        "Offset": 189900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "máquinas",
+                        "Offset": 199100000,
+                        "Duration": 8800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9182431,
+                "Lexical": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "ITN": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "MaskedITN": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "Display": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "Words": [
+                    {
+                        "Word": "tudo",
+                        "Offset": 122300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "começou",
+                        "Offset": 124700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 131900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 135900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 142700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mil",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 152300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 153900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 157100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 157500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 171900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 175500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "era",
+                        "Offset": 189900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "máquinas",
+                        "Offset": 199100000,
+                        "Duration": 8800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9182431,
+                "Lexical": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "ITN": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "MaskedITN": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "Display": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "Words": [
+                    {
+                        "Word": "tudo",
+                        "Offset": 122300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "começou",
+                        "Offset": 124700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 131900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 135900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 142700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mil",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 152300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 153900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 157100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 157500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 171900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 175500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "era",
+                        "Offset": 189900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "máquinas",
+                        "Offset": 199100000,
+                        "Duration": 8800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9182431,
+                "Lexical": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "ITN": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "MaskedITN": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "Display": "tudo começou no ano de três mil e vinte e cinco quando tudo era máquinas",
+                "Words": [
+                    {
+                        "Word": "tudo",
+                        "Offset": 122300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "começou",
+                        "Offset": 124700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 131900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ano",
+                        "Offset": 133900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 135900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "três",
+                        "Offset": 142700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mil",
+                        "Offset": 146700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 152300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "vinte",
+                        "Offset": 153900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 157100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "cinco",
+                        "Offset": 157500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "quando",
+                        "Offset": 171900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 175500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "era",
+                        "Offset": 189900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "máquinas",
+                        "Offset": 199100000,
+                        "Duration": 8800000
+                    }
+                ]
+            }
+        ]
+    }
+]
